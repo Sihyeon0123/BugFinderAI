@@ -234,7 +234,7 @@ results.show()
 
 # 10. 모델 정확도 평가
 ```sh 
-python val.py --weights runs/train/exp/weights/best.pt --data test.yaml --task test
+python val.py --weights runs/train/exp/weights/best.pt --data data.yaml --task test
 ```
 ![스크린샷 2024-05-29 004116](https://github.com/Sihyeon0123/BugFinderAI/assets/129951793/87000587-5f0a-4640-968d-b9634e739d42)
 
